@@ -9,4 +9,8 @@
 - **目標**：理解風格在視覺中的應用差異
 - **任務**：輸入「a magical forest with glowing mushrooms」，分別選擇2種風格，產生兩張圖並比較。
 - ![image](https://github.com/loGrace18/AU2025/blob/main/a-magical-forest-with-glowing-mushrooms.jpg)
+- ## Lab 3：敘事圖像創作
+
+- **目標**：根據腳本產出圖像素材
+- **任務**：套用自己的腳本，用 Image 工具產出故事封面。腳本:勇敢的小貓咪冒雨救回迷路的小鳥，兩隻動物在艱難中結為好友，彼此守望，分享溫暖。牠們的友誼感動了村莊居民，大家團結起來，種植花園，打造一個充滿愛與和平的家園。
 - 
