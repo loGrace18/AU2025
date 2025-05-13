@@ -8,3 +8,5 @@
 
 - **目標**：理解風格在視覺中的應用差異
 - **任務**：輸入「a magical forest with glowing mushrooms」，分別選擇2種風格，產生兩張圖並比較。
+- ![image](https://github.com/loGrace18/AU2025/blob/main/a-magical-forest-with-glowing-mushrooms.jpg)
+- 
